@@ -132,12 +132,13 @@ industrial-esg-analytics-platform
 # Dashboard Preview
 
 ## Tableau Dashboard
-Add Tableau dashboard screenshot here.
+<img width="1461" height="833" alt="Screenshot 2026-05-15 at 3 05 43 PM" src="https://github.com/user-attachments/assets/111338e4-6f43-49c9-919c-1eab48b630c7" />
+
 
 ---
 
 ## Streamlit Analytics App
-<img width="2906" height="1494" alt="image" src="https://github.com/user-attachments/assets/101b23bc-5d9f-43e3-bee7-c6f3cc63049e" />
+<img width="1457" height="826" alt="Screenshot 2026-05-15 at 2 59 18 PM" src="https://github.com/user-attachments/assets/4c13e16b-af49-4146-bae1-fb05ef99a299" />
 
 
 ---
