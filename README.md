@@ -158,13 +158,7 @@ The platform enables exploration of global industrial operational patterns throu
 
 # Tableau Public Dashboard
 
-Add your Tableau Public dashboard link here.
-
-Example:
-
-```text
-[https://public.tableau.com/...](https://public.tableau.com/app/profile/pallabi.roy.singh/viz/IndustrialESGAnalyticsDashboard/IndustrialSustainabilityIntelligencePlatform)
-```
+https://public.tableau.com/app/profile/pallabi.roy.singh/viz/IndustrialESGAnalyticsDashboard/IndustrialSustainabilityIntelligencePlatform
 
 ---
 
