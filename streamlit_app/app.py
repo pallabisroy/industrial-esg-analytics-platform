@@ -15,7 +15,7 @@ st.set_page_config(
 # LOAD DATA
 # -----------------------------------
 
-df = pd.read_csv('../data/cleaned_wastewater.csv')
+df = pd.read_csv('data/cleaned_wastewater.csv')
 
 # -----------------------------------
 # SIDEBAR
