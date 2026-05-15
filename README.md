@@ -137,7 +137,8 @@ Add Tableau dashboard screenshot here.
 ---
 
 ## Streamlit Analytics App
-Add Streamlit app screenshot here.
+<img width="2906" height="1494" alt="image" src="https://github.com/user-attachments/assets/101b23bc-5d9f-43e3-bee7-c6f3cc63049e" />
+
 
 ---
 
