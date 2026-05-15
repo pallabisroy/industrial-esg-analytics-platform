@@ -163,7 +163,7 @@ Add your Tableau Public dashboard link here.
 Example:
 
 ```text
-https://public.tableau.com/...
+[https://public.tableau.com/...](https://public.tableau.com/app/profile/pallabi.roy.singh/viz/IndustrialESGAnalyticsDashboard/IndustrialSustainabilityIntelligencePlatform)
 ```
 
 ---
